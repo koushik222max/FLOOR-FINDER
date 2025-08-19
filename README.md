@@ -1,6 +1,4 @@
-# ⚡🔻 FLOOR IT DOWN — PYTHON’S HIDDEN GRAVITY ⚡  
-
----
+# ⚡🔻 FLOOR IT DOWN — PYTHON’S HIDDEN GRAVITY 
 
 ## 🎭 Hook  
 Every number wants to float…  
@@ -14,7 +12,7 @@ This Python script demonstrates the magic of **`math.floor()`**:
 - Takes a decimal number.  
 - Strips away the fraction.  
 - Returns the **largest integer less than or equal** to the number.  
-
+---
 ✨ Example:  
 7.4 → 7  
 
