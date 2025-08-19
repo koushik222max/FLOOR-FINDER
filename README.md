@@ -4,7 +4,7 @@
 Every number wants to float…  
 But sometimes, gravity drags it **down to its lowest whole self**.  
 
----
+
 
 ## 📜 Body  
 This Python script demonstrates the magic of **`math.floor()`**:  
@@ -16,7 +16,6 @@ This Python script demonstrates the magic of **`math.floor()`**:
 ✨ Example:  
 7.4 → 7  
 
----
 
 ## 🚀 CTA  
 - Clone it.  
